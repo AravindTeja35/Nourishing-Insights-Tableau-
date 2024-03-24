@@ -2,11 +2,11 @@
 
 **Introduction**
 
-"Nourishing Insights" is a comprehensive analysis project focused on examining global food insecurity from 2000 to 2022. The project explores the paradoxical existence of food abundance alongside scarcity, attributing this phenomenon to various factors such as climate change, economic disparities, and geopolitical tensions. By leveraging extensive datasets, our goal is to uncover the underlying causes of food insecurity and offer insights into mitigating this global challenge.
+The project "Nourishing Insights: Analyzing Global Food Insecurity & Socio-Economic Trends" is a comprehensive analysis project focused on examining global food insecurity from 2000 to 2022. The project explores the paradoxical existence of food abundance alongside scarcity, attributing this phenomenon to various factors such as climate change, economic disparities, and geopolitical tensions. By leveraging advanced analytics and visualization capabilities of Tableau on extensive datasets, our goal is to uncover the underlying causes of food insecurity and offer insights into mitigating this global challenge.
 
 **Objective**
 
-The primary objective of "Nourishing Insights" is to analyze global food insecurity statistics, correlating them with factors like GDP per capita, population growth, the impact of the COVID-19 pandemic, and income inequality. Our analysis seeks to provide a deeper understanding of food insecurity's roots and its relation to 21st-century human activities, aiming to contribute to more effective strategies against this persistent issue.
+The primary objective of our project is to use Tableau to analyze and visualize  global food insecurity statistics, correlating them with factors like GDP per capita, population growth, the impact of the COVID-19 pandemic, and income inequality. Our analysis seeks to provide a deeper understanding of food insecurity's roots and its relation to 21st-century human activities, aiming to contribute to more effective strategies against this persistent issue.
 
 **Dataset Description**
 
