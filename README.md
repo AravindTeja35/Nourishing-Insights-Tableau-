@@ -18,7 +18,7 @@ This project consists of three main components: the overarching trend in food in
 
 ![image](https://github.com/AravindTeja35/Nourishing-Insights-Tableau-/assets/163460197/5cb5144e-e9c4-4e26-96a7-b2a755ba1fc6)
 
-![image](https://github.com/AravindTeja35/Nourishing-Insights-Tableau-/assets/163460197/845f5c28-b914-4ea3-bcb0-6caa01fed7ef)
+![image](https://github.com/AravindTeja35/Nourishing-Insights-Tableau-/assets/163460197/4310eaaf-8394-4d7f-b052-97bbc82936d4)
 
 ![image](https://github.com/AravindTeja35/Nourishing-Insights-Tableau-/assets/163460197/66a71f01-97ed-4e8e-a9d9-9489ea3aa5be)
 
