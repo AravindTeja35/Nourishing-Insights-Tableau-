@@ -2,7 +2,7 @@
 
 **Introduction**
 
-The project "Nourishing Insights: Analyzing Global Food Insecurity & Socio-Economic Trends" is a comprehensive analysis project focused on examining global food insecurity from 2000 to 2022. The project explores the paradoxical existence of food abundance alongside scarcity, attributing this phenomenon to various factors such as climate change, economic disparities, and geopolitical tensions. By leveraging advanced analytics and visualization capabilities of Tableau on extensive datasets, our goal is to uncover the underlying causes of food insecurity and offer insights into mitigating this global challenge.
+The project is a comprehensive analysis project focused on examining global food insecurity from 2000 to 2022. The project explores the paradoxical existence of food abundance alongside scarcity, attributing this phenomenon to various factors such as climate change, economic disparities, and geopolitical tensions. By leveraging advanced analytics and visualization capabilities of Tableau on extensive datasets, our goal is to uncover the underlying causes of food insecurity and offer insights into mitigating this global challenge.
 
 **Objective**
 
