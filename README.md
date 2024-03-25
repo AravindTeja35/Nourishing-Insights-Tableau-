@@ -14,11 +14,14 @@ The project utilizes six datasets covering aspects such as GDP per capita, food 
 
 **Analysis**
 
-Our analysis consists of several key components:
+This project consists of three main components: the overarching trend in food insecurity during the 21st century, the correlation between major events and food insecurity rates, and the relationship between economic indicators and food insecurity. Our objective is to grasp the overall food insecurity rate trend, using it as the foundation for assessing the hypothesis that 'major events (e.g., COVID) and economic factors impact food insecurity rates. We employ various visualization techniques, including boxplots and line charts, to illustrate the distribution of food insecurity rates across countries and their correlation with different factors.
 
-Examining the overall trend of food insecurity during the 21st century.
-Investigating the correlation between major events (e.g., the COVID-19 pandemic) and food insecurity rates.
-Analyzing the relationship between economic indicators (such as GDP per capita and income inequality) and food insecurity.
+![image](https://github.com/AravindTeja35/Nourishing-Insights-Tableau-/assets/163460197/5cb5144e-e9c4-4e26-96a7-b2a755ba1fc6)
+
+![image](https://github.com/AravindTeja35/Nourishing-Insights-Tableau-/assets/163460197/845f5c28-b914-4ea3-bcb0-6caa01fed7ef)
+
+![image](https://github.com/AravindTeja35/Nourishing-Insights-Tableau-/assets/163460197/66a71f01-97ed-4e8e-a9d9-9489ea3aa5be)
+
 We employ various visualization techniques, including boxplots and line charts, to illustrate the distribution of food insecurity rates across countries and their correlation with different factors.
 
 **Conclusion**
