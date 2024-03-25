@@ -22,8 +22,6 @@ This project consists of three main components: the overarching trend in food in
 
 ![image](https://github.com/AravindTeja35/Nourishing-Insights-Tableau-/assets/163460197/66a71f01-97ed-4e8e-a9d9-9489ea3aa5be)
 
-We employ various visualization techniques, including boxplots and line charts, to illustrate the distribution of food insecurity rates across countries and their correlation with different factors.
-
 **Conclusion**
 
 Our findings indicate a significant decline in the global average rate of food insecurity, although countries with severe food insecurity still face fluctuating rates. Economic conditions appear to be a primary determinant of food insecurity rates, with no direct link established between major global events and food insecurity. The increase in food insecurity rates beyond the first decade of the 21st century correlates with the rising costs of staple cereals.
